@@ -20,3 +20,5 @@ next.user-config.*
 node_modules/
 .next/
 .DS_Store
+# TypeScript build info
+*.tsbuildinfo
